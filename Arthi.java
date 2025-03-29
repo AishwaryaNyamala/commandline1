@@ -1,4 +1,4 @@
-class arthi
+class Arthi
 {
 public static void main(String args[])
 {
