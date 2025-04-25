@@ -1,0 +1,10 @@
+let a=parseInt(prompt("enter a value");
+let b=parseInt(prompt("enter a value");
+let add=a+b;
+let sub=a-b;
+let mult=a*b;
+let div=a/b;
+console.log(add);
+console.log(sub);
+console.log(mult);
+console.log(div);
